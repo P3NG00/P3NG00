@@ -1,8 +1,10 @@
 P3
 
-Java & C# Programmer
+Java
+Python
+C#
 
-Unity Game Developer
+Unity Engine
 
 Discord: P3#0001
 
