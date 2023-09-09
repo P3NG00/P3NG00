@@ -6,7 +6,7 @@ C#
 
 Unity Engine
 
-Discord: P3#0001
+Discord: p3ng00
 
 <!---
 P3NG00/P3NG00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
