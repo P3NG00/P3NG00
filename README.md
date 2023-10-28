@@ -6,7 +6,6 @@ Discord: p3ng00
 * Java
 * Python
 * GDScript
-* Batch
 
 ## Engines
 * ~~Unity Engine~~
