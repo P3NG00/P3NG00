@@ -2,10 +2,12 @@
 Discord: p3ng00
 
 ## Languages
-* C#
-* Java
 * Python
 * GDScript
+* Java
+* C
+* C#
+* C++
 
 ## Engines
 * Godot Engine
