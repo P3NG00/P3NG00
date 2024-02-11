@@ -6,9 +6,9 @@ Discord: p3ng00
 * C#
 * C++
 * Python
-* GDScript
 * Java
 * JavaScript
+* GDScript
 
 ## Engines
 * Godot Engine
