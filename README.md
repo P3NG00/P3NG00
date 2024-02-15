@@ -8,6 +8,7 @@ Discord: p3ng00
 * Python
 * Java
 * JavaScript
+* Node.js
 * GDScript
 
 ## Engines
