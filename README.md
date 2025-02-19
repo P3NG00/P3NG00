@@ -2,14 +2,13 @@
 Discord: p3ng00
 
 ## Languages
-* C
-* C#
+* C & C#
 * Python
 * Java
+* GDScript (Specific to Godot Engine)
+* HTML & CSS (https://BryantF.xyz)
 * JavaScript
 * Node.js
-* GDScript
-* HTML & CSS (https://BryantF.xyz)
 
 ## Engines
 * Godot Engine
