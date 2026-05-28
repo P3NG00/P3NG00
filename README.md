@@ -2,7 +2,8 @@
 Discord: p3ng00
 
 ## Languages
-* C & C#
+* C
+* C#
 * Python
 * Java
 * GDScript (Specific to Godot Engine)
